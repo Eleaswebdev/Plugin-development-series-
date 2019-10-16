@@ -12,5 +12,10 @@ Learning source:1.https://developer.wordpress.org/plugins/
       2.https://kinsta.com/blog/create-wordpress-widget/
       3.https://www.youtube.com/watch?v=1lS_8yBfnD4
       4.https://shellcreeper.com/wp-ajax-for-beginners
+      
+      
+      
+ And the best book i found in internet that covered most topics from the very basic. you can download it from the below link:
+ https://doc.lagout.org/programmation/tech_web/Wordpress/Professional%20WordPress%20Plugin%20Development%20%5BWilliams%2C%20Richard%20%26%20Tadlock%202011-03-15%5D.pdf
                 
                 
