@@ -4,3 +4,13 @@ I am newbie in plugin development.So i created this simple plugin to develop my 
 
 Learning source:1.https://developer.wordpress.org/plugins/
                 2.https://freecoursesite.com/wordpress-plugin-development-build-14-plugins/
+                3.https://developer.wordpress.org/plugins/plugin-basics/best-practices/
+               
+               
+      Sometimes i learn from different blogs that are really really helpfull: You can check this from the below link   
+      1.https://www.smashingmagazine.com/2012/05/wordpress-shortcodes-complete-guide/
+      2.https://kinsta.com/blog/create-wordpress-widget/
+      3.https://www.youtube.com/watch?v=1lS_8yBfnD4
+      4.https://shellcreeper.com/wp-ajax-for-beginners
+                
+                
